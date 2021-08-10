@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=boyeonLee&fontSize=90&desc=Welcome%to%my%github!)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=boyeonLee&fontSize=90&desc=Welcome%to%my%github!&animation=twinkling)
 
 ## :wrench: :computer: Tech Stack :computer: :wrench:
 
