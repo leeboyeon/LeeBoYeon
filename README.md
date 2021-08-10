@@ -4,7 +4,9 @@
 **leeboyeon/LeeBoYeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img src="https://img.shields.io/badge/#007396?style=flat-square&logo=simpleiconsJava&logoColor=white"/></a>&nbsp 
+
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 
 - 🔭 I’m currently working on ...
