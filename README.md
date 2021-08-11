@@ -40,6 +40,6 @@
  </hr>
 
 ![Instagram](https://img.shields.io/badge/@instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](qhdus101@gmail.com)(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
