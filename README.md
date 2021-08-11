@@ -7,11 +7,12 @@
 </hr>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboyeon&theme=dracula&show_icons=true?card_width=50%) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&langs_count=4&layout=compact&show_icons=true?theme=cobalt?card_width=30%)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboyeon&theme=dracula&show_icons=true?) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&langs_count=4&layout=compact&show_icons=true?)
 
 
 
-<div align="center"> <h2> :herb: Tech Stack :herb: </h2> 
+<div align="center"> <h2> ** :herb: Tech Stack :herb: ** </h2> 
  </hr>
  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
