@@ -10,7 +10,7 @@
 <div float="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboyeon&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&langs_count=4&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&langs_count=4&layout=compact&show_icons=truetheme=radical)
  
  </div>
 
