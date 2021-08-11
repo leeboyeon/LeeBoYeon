@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&theme=buefy)
 
 
-<div align="center"> <h2> :wrench: Tech Stack :wrench: </h2> 
+<div align="center"> <h2> :herb: Tech Stack :herb: </h2> 
  </hr>
  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
