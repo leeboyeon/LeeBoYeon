@@ -35,7 +35,7 @@
 <div align="center">
  <h2>:tulip::tulip:It's ME!:tulip::tulip:</h2>
  </hr>
- -Social
+
 ![Instagram](https://img.shields.io/badge/<@puple_lotusflower_>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
