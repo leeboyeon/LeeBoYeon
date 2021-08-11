@@ -7,10 +7,12 @@
 </hr>
 </div>
 
+<div float=left>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboyeon&theme=dracula&show_icons=true?) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&langs_count=4&layout=compact&show_icons=true?card_width=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&langs_count=4&layout=compact&show_icons=true?card_width=100?)
 
-
+</div>
 
 
 <div align="center"> <h2> :herb: **Tech Stack** :herb: </h2> 
