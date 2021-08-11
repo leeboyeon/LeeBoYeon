@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=boyeonLee&fontSize=90&desc=Welcome%to%my%github!&animation=twinkling)
 ### Hi there 👋
-
+<div align="center">
 ## :wrench: :computer: Tech Stack :computer: :wrench:
  - :star:Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +27,7 @@
 # -Social
 ![Instagram](https://img.shields.io/badge/<@puple_lotusflower_>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+ </div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
