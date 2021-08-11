@@ -7,8 +7,7 @@
 </hr>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboyeon&theme=dracula&show_icons=true?card_width=60%)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&langs_count=4&layout=compact&show_icons=true?theme=cobalt?card_width=30%)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboyeon&theme=dracula&show_icons=true?card_width=50%) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&langs_count=4&layout=compact&show_icons=true?theme=cobalt?card_width=30%)
 
 
 
