@@ -10,15 +10,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboyeon&theme=dracula&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&theme=buefy)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leeboyeon&repo=algorithm)
 
 
-
-
-
-
-
-<div align="center"> <h2> :wrench: :computer: Tech Stack :computer: :wrench: </h2> 
+<div align="center"> <h2> :wrench: Tech Stack :wrench: </h2> 
  </hr>
  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,27 +32,11 @@
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboyeon&theme=dracula&show_icons=true)
-
-
-
-
-
-
-
-## :tulip::tulip:It's ME!:tulip::tulip:
-
-
-# -Social
+<div align="center">
+ <h2>:tulip::tulip:It's ME!:tulip::tulip:</h2>
+ </hr>
+ -Social
 ![Instagram](https://img.shields.io/badge/<@puple_lotusflower_>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
