@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=boyeonLee&fontSize=90&desc=Welcome%to%my%github!&animation=twinkling)
 
-<div align = center><h1>👋 Hi, there 👋 </h1></div>
+<div align = center><h1>👋 Hi, there 👋 </h1>
 </hr>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeboyeon%2FLeeBoYeon.git&count_bg=%23454545&title_bg=%23D971FF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- <div align="center">
+</div>
+
+
+
+<div align="center">
 # :wrench: :computer: Tech Stack :computer: :wrench:
  </br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
