@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
- <h2>:tulip::tulip:It's ME!:tulip::tulip:</h2>
+ <h2>:tulip::tulip: It's ME! :tulip::tulip:</h2>
  </hr>
 
 ![Instagram](https://img.shields.io/badge/<@puple_lotusflower_>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
