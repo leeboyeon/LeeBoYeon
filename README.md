@@ -7,9 +7,11 @@
 </hr>
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboyeon&theme=dracula&show_icons=true)
+<div float="left">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeboyeon&theme=dracula&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeboyeon&langs_count=4&layout=compact)
+ </div>
+
 
 
 <div align="center"> <h2> :herb: Tech Stack :herb: </h2> 
@@ -36,7 +38,7 @@
  <h2>:tulip::tulip: It's ME! :tulip::tulip:</h2>
  </hr>
 
-![Instagram](https://img.shields.io/badge/<@instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/@instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
