@@ -2,14 +2,11 @@
 
 <div align = center><h1>👋 Hi, there 👋 </h1>
 </hr>
-<p align="center">
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeboyeon%2FLeeBoYeon.git&count_bg=%23454545&title_bg=%23D971FF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeboyeon%2FLeeBoYeon.git&count_bg=%23454545&title_bg=%23D971FF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
-<div align="center">
 # :wrench: :computer: Tech Stack :computer: :wrench:
  </br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,7 +30,7 @@
 # -Social
 ![Instagram](https://img.shields.io/badge/<@puple_lotusflower_>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- </div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
